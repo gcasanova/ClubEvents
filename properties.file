@@ -1,0 +1,5 @@
+facebook.app.id = xxxxxxxx
+facebook.access.token = xxxxxxxx
+aws.access.key = xxxxxxxx
+aws.secret.key = xxxxxxxx
+aws.s3.bucket.logs = xxxxxxxx
